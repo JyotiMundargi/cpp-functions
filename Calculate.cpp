@@ -25,10 +25,11 @@ int main()
 
     Calculate cal;
 
-    cout<<"The sum of a+b=" <<cal.add(15,15)<<"\n"<<endl;
-    cout<<"The sum of a+b+c="<<cal.add(50,10,10)<<"\n"<<endl;
+    cout<<"The sum of a+b=" <<cal.add(15,15)<<endl;
+    cout<<"The sum of a+b+c="<<cal.add(50,10,10)<<endl;
     cout<<"The sum of a+b+c="<<cal.add(10,25,20)<<endl;
 
 
     return 0;
+
 }
