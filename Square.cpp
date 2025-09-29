@@ -15,6 +15,7 @@ int squareanddoubled(int num)
 int main()
 {
     int result = squareanddoubled(10);
-    cout<<"the square of 10 sis " << result <<endl;
+    cout<<"the square of 10 is " << result <<endl;
     return 0;
+
 }
